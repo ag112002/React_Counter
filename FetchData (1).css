@@ -1,0 +1,60 @@
+
+  .sidebar {
+  background-color: #f2f2f2;
+  width: 200px;
+  padding: 20px;
+}
+.data-button
+{
+  font-size: 12px;
+    font-weight: bold;
+    background-color: grey; 
+    color: white;
+    padding: 10px 20px;
+ 
+    cursor: pointer;
+    border: none;
+}
+.name
+{
+
+    font-size: 24px;
+    font-weight: bold;
+   
+    color: black;
+
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+.sep
+{
+  background-color: rgb(161, 217, 249); 
+}
+.inc-button
+{
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgb(53, 108, 53); 
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+.dec-button
+{
+
+}
+.selected-item {
+    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+   
+  }
+  

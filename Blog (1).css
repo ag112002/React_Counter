@@ -1,0 +1,15 @@
+.center {
+    display: flex;
+    justify-content: center;
+  }
+  .custom-button
+  {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(38, 38, 66); 
+    color: rgb(245, 247, 249);
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+  }  
