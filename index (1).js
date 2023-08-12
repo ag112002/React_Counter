@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Blog from './components/Blog'
-import Data from './components/coins'
-import {App} from './components/App'
-import './components/Blog.css';
+import Blog from '/Blog'
+import Data from '/coins'
+import {App} from '/App'
+import '/Blog.css';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Link } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById("root"));
